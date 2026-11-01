@@ -1,0 +1,9 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "Ruinsss格式快转 entry module",
+  "main": "",
+  "author": "Ruinsss",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}
