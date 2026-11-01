@@ -1,0 +1,8 @@
+{
+  "modelVersion": "26.0.0",
+  "name": "ruinsss-format",
+  "version": "1.0.0",
+  "description": "Ruinsss格式快转 - lossless audio extraction for HarmonyOS",
+  "dependencies": {},
+  "devDependencies": {}
+}

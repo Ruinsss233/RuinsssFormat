@@ -1,0 +1,20 @@
+# Ruinsss格式快转 build artifacts
+/node_modules/
+/oh_modules/
+/.hvigor/
+/.hvigor-home/
+/.cpshim/
+/.pack/
+/build/
+/entry/build/
+/entry/.preview/
+/entry/libs/
+/entry/.cxx/
+/dist/
+/local.properties
+/.last-build.out
+*.hap
+*.hsp
+*.zip
+.build.log
+.build.err.log
